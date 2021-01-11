@@ -51,12 +51,6 @@
 			<artifactId>spring-boot-starter-tomcat</artifactId>			
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-  <snapshotRepository>
-    <id>nexus</id>
-    <url>http://3.17.135.111:8081/nexus/content/repositories/snapshots</url>
-  </snapshotRepository>
-</distributionManagement>
 
 	<build>
 		<plugins>
